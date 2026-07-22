@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Smart Tourism \u0026 Cultural Heritage AI",
+  "description": "A full-stack, multilingual platform for exploring Tamil Nadu\u0027s rich cultural heritage. Powered by Gemini AI for travel assistant chatbots, smart geographic maps, real-time customized itineraries, and camera-based vision monument recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
